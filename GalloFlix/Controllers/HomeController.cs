@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ZazaFlix.Models;
+using GalloFlix.Models;
 
-namespace ZazaFlix.Controllers;
+namespace GalloFlix.Controllers;
 
 public class HomeController : Controller
 {
