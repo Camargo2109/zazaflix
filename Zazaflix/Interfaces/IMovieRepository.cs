@@ -1,4 +1,4 @@
-using ZazaFlix.Models;
+using Zazaflix.Models;
 
 namespace Zazaflix.Interfaces;
 

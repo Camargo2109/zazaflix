@@ -1,4 +1,4 @@
-namespace ZazaFlix.Models;
+namespace Zazaflix.Models;
 
 public class MovieGenre
 {
